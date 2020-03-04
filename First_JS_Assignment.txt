@@ -1,0 +1,23 @@
+A FUNCTION THAT ENTERS THE REQUIREMENTS FOR AN MPESA DEPOSIT AND RETURNS A CONFIRMATION MESSAGE
+Input
+Phone Number
+Amounnt
+Id Number
+
+function depositMoney(){
+phoneNumber()
+idNumber()
+amount()
+
+}
+depositMoney()
+
+function requirementForTransaction()
+  var phoneDetails=phoneNumber()
+  var id=idNumbers()
+  var money=amount()
+  var confirmationMessage=phoneDetails && id && money
+return confirmationMessage
+}
+requirementForDeposit()
+
